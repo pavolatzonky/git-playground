@@ -1,3 +1,3 @@
 # git-playground
 
-A repository used to teach git tool.
+A repository used to teach git tool
