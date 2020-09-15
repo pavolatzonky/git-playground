@@ -1,7 +1,7 @@
 prvni
 druhy
 treti
-conflict comes here
+conflict resolved
 paty
 sesty
 tu vznikne konflikt
