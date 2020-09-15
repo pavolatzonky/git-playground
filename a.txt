@@ -1,0 +1,7 @@
+prvni
+druhy
+treti
+conflict resolved
+paty
+sesty
+tu vznikne konflikt
